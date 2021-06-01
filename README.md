@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arjunlohan
 - 👀 I’m self taught programmer.
-- 🌱 Learning Python, HTML, Alteryx, CSS
+- 🌱 Python, HTML, Alteryx, CSS
 - 💞️ I’m looking to collaborate on data science project involving trading, automation and AL/ML.
 - 📫 How to reach me on arjun.lohan@jacobs.ucsd.edu
